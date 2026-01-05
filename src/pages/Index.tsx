@@ -15,7 +15,7 @@ const Index = () => {
   return (
     <div className="relative">
       {/* Spotlight gradient that follows mouse */}
-      <div className="pointer-events-none fixed inset-0 z-30 transition duration-300 lg:absolute spotlight" />
+      <div className="pointer-events-none fixed inset-0 z-30 transition-all duration-150 ease-out lg:absolute spotlight" />
       
       <div className="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0">
         <a
