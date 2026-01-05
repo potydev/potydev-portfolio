@@ -21,7 +21,7 @@ export const experiences = [
     dateRange: "2024",
     title: "Meta Certified Developer",
     company: "Meta",
-    companyUrl: "https://www.meta.com/",
+    companyUrl: "https://www.coursera.org/account/accomplishments/verify/19PNXK0S7CRJ/",
     description:
       "Completed Meta's professional certification program, demonstrating proficiency in frontend development best practices, React ecosystem, and modern web development standards.",
     technologies: ["React", "JavaScript", "Frontend Development"],
