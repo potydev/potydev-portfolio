@@ -9,7 +9,7 @@ export const experiences = [
     technologies: ["Vue.js", "React", "TypeScript", "JavaScript", "Tailwind CSS"],
   },
   {
-    dateRange: "2023 — PRESENT",
+    dateRange: "2025 — PRESENT",
     title: "TRPL Student",
     company: "Politeknik Negeri Cilacap",
     companyUrl: "https://pnc.ac.id",
