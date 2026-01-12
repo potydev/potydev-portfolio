@@ -32,7 +32,7 @@ const Index = () => {
             <Section id="about" title="About">
               <div className="space-y-4">
                 <p className="text-foreground leading-relaxed">
-                  Saya adalah  Fullstack Developer yang passionate dalam membangun aplikasi web modern dengan fokus pada user experience dan clean code. Spesialisasi saya adalah{" "}
+                  Saya adalah seorang Fullstack Developer yang passionate dalam membangun aplikasi web modern dengan fokus pada user experience dan clean code. Spesialisasi saya adalah{" "}
                   <span className="font-medium text-slate-light">Vue.js</span> dan{" "}
                   <span className="font-medium text-slate-light">React</span>, dan saya telah mendapatkan sertifikasi dari{" "}
                   <a
