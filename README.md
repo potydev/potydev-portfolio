@@ -10,7 +10,7 @@ Portfolio website modern yang terinspirasi dari desain [Brittany Chiang](https:/
 - 🚀 **Fast** - Dibangun dengan Vite untuk performa optimal
 - ♿ **Accessible** - Mengikuti best practices untuk aksesibilitas
 - 🎭 **Dark Mode Ready** - Siap untuk implementasi dark mode
-d
+
 ## 🛠️ Tech Stack
 
 - **Framework**: React 18 + TypeScript
