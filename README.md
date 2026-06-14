@@ -3,7 +3,7 @@
 Portfolio website modern yang terinspirasi dari desain [Brittany Chiang](https://brittanychiang.com/). Dibangun dengan React, TypeScript, dan Tailwind CSS untuk menampilkan pengalaman, proyek, dan informasi tentang developer.
 
 ## ✨ Fitur
-
+d
 - 🎨 **Desain Modern** - UI/UX yang clean dan modern dengan animasi halus
 - 📱 **Responsive** - Fully responsive untuk semua ukuran layar
 - 🎯 **Interactive** - Spotlight effect yang mengikuti cursor mouse
